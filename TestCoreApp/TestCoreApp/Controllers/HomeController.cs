@@ -15,7 +15,7 @@ namespace TestCoreApp.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            return View(); //linked to the view file
         }
 
         public IActionResult Privacy()
