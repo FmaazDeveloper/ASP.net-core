@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "21YZedP0s/gt7x1bGPAwaXcx0Yq1v5NGBeOPRIqC3BQ=",
+  "Hash": "Plf7emdOlQDhBimc7o6mPbFa6WjOMb+852sPxegNkX4=",
   "Source": "TestCoreApp",
   "BasePath": "_content/TestCoreApp",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\TestCoreApp\\TestCoreApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TestCoreApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\TestCoreApp\\TestCoreApp\\wwwroot\\css\\bootswatchStyle.css",
+      "SourceId": "TestCoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\TestCoreApp\\TestCoreApp\\wwwroot\\",
+      "BasePath": "_content/TestCoreApp",
+      "RelativePath": "css/bootswatchStyle.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootswatchStyle.css"
     },
     {
       "Identity": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\TestCoreApp\\TestCoreApp\\wwwroot\\css\\site.css",

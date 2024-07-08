@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\TestCoreApp.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\TestCoreApp\\TestCoreApp\\wwwroot\\css\\bootswatchStyle.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchStyle.css"
+    },
+    {
       "Id": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\TestCoreApp\\TestCoreApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
