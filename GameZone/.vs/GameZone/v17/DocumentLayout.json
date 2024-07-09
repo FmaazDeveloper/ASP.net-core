@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\GameZone\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B77B142C-D393-4BCF-AFB6-1CA4240AC2B7}|GameZone\\GameZone.csproj|c:\\users\\mohammad.alzahrani\\desktop\\pc folders\\dev\\projects\\asp.net-core\\gamezone\\gamezone\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B77B142C-D393-4BCF-AFB6-1CA4240AC2B7}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\views\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B77B142C-D393-4BCF-AFB6-1CA4240AC2B7}|GameZone\\GameZone.csproj|c:\\users\\mohammad.alzahrani\\desktop\\pc folders\\dev\\projects\\asp.net-core\\gamezone\\gamezone\\viewmodels\\creategameformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B77B142C-D393-4BCF-AFB6-1CA4240AC2B7}|GameZone\\GameZone.csproj|solutionrelative:gamezone\\viewmodels\\creategameformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\GameZone\\GameZone\\Views\\Games\\Create.cshtml",
-              "RelativeDocumentMoniker": "GameZone\\Views\\Games\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\GameZone\\GameZone\\Views\\Games\\Create.cshtml",
-              "RelativeToolTip": "GameZone\\Views\\Games\\Create.cshtml",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAADBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-08T13:57:22.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateGameFormViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\GameZone\\GameZone\\ViewModels\\CreateGameFormViewModel.cs",
-              "RelativeDocumentMoniker": "GameZone\\ViewModels\\CreateGameFormViewModel.cs",
-              "ToolTip": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\GameZone\\GameZone\\ViewModels\\CreateGameFormViewModel.cs",
-              "RelativeToolTip": "GameZone\\ViewModels\\CreateGameFormViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T12:28:08.525Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

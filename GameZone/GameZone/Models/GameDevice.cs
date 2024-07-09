@@ -3,8 +3,9 @@
     public class GameDevice
     {
         public int GameId { get; set; }
-        public int Game { get; set; } = default!;
+        public Game Game { get; set; } = default!;
+
         public int DeviceId { get; set; }
-        public int Device { get; set; } = default!;
+        public Device Device { get; set; } = default!;
     }
 }

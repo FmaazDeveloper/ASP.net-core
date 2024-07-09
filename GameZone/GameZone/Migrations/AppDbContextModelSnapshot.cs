@@ -161,13 +161,9 @@ namespace GameZone.Migrations
                     b.Property<int>("DeviceId")
                         .HasColumnType("int");
 
-                    b.Property<int>("Device")
-                        .HasColumnType("int");
-
-                    b.Property<int>("Game")
-                        .HasColumnType("int");
-
                     b.HasKey("GameId", "DeviceId");
+
+                    b.HasIndex("DeviceId");
 
                     b.ToTable("GameDevices");
                 });
@@ -185,11 +181,21 @@ namespace GameZone.Migrations
 
             modelBuilder.Entity("GameZone.Models.GameDevice", b =>
                 {
-                    b.HasOne("GameZone.Models.Game", null)
-                        .WithMany("Device")
+                    b.HasOne("GameZone.Models.Device", "Device")
+                        .WithMany()
+                        .HasForeignKey("DeviceId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("GameZone.Models.Game", "Game")
+                        .WithMany("Devices")
                         .HasForeignKey("GameId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("Device");
+
+                    b.Navigation("Game");
                 });
 
             modelBuilder.Entity("GameZone.Models.Category", b =>
@@ -199,7 +205,7 @@ namespace GameZone.Migrations
 
             modelBuilder.Entity("GameZone.Models.Game", b =>
                 {
-                    b.Navigation("Device");
+                    b.Navigation("Devices");
                 });
 #pragma warning restore 612, 618
         }
