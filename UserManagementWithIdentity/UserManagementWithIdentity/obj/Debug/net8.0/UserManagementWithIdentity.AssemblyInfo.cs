@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserManagementWithIdentity")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b7771f7367a9ddd83664f3cb7f26c936274cb2a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9ef56cf6c2fcebc9d0291b846ddc3390bcbc96f")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserManagementWithIdentity")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserManagementWithIdentity")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

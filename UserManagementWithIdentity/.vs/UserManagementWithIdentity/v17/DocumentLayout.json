@@ -7,16 +7,11 @@
       "RelativeMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|solutionrelative:usermanagementwithidentity\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|c:\\users\\mohammad.alzahrani\\desktop\\pc folders\\dev\\projects\\asp.net-core\\usermanagementwithidentity\\usermanagementwithidentity\\views\\users\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|solutionrelative:usermanagementwithidentity\\views\\users\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/NEW_PC_29_SQL2022/aspnet_UserManagementWithIdentity/True/SqlTable/security.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|c:\\users\\mohammad.alzahrani\\desktop\\pc folders\\dev\\projects\\asp.net-core\\usermanagementwithidentity\\usermanagementwithidentity\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|solutionrelative:usermanagementwithidentity\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|c:\\users\\mohammad.alzahrani\\desktop\\pc folders\\dev\\projects\\asp.net-core\\usermanagementwithidentity\\usermanagementwithidentity\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|solutionrelative:usermanagementwithidentity\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|c:\\users\\mohammad.alzahrani\\desktop\\pc folders\\dev\\projects\\asp.net-core\\usermanagementwithidentity\\usermanagementwithidentity\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|solutionrelative:usermanagementwithidentity\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,45 +21,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ManageRoles.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Views\\Users\\ManageRoles.cshtml",
-              "RelativeDocumentMoniker": "UserManagementWithIdentity\\Views\\Users\\ManageRoles.cshtml",
-              "ToolTip": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Views\\Users\\ManageRoles.cshtml",
-              "RelativeToolTip": "UserManagementWithIdentity\\Views\\Users\\ManageRoles.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T13:42:24.947Z",
+              "Title": "security.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/NEW_PC_29_SQL2022/aspnet_UserManagementWithIdentity/True/SqlTable/security.Users.sql",
+              "ToolTip": "security.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-11T14:37:30.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RoleViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\ViewModels\\RoleViewModel.cs",
-              "RelativeDocumentMoniker": "UserManagementWithIdentity\\ViewModels\\RoleViewModel.cs",
-              "ToolTip": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\ViewModels\\RoleViewModel.cs",
-              "RelativeToolTip": "UserManagementWithIdentity\\ViewModels\\RoleViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T13:16:31.312Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Views\\Users\\Index.cshtml",
-              "RelativeDocumentMoniker": "UserManagementWithIdentity\\Views\\Users\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Views\\Users\\Index.cshtml",
-              "RelativeToolTip": "UserManagementWithIdentity\\Views\\Users\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UserManagementWithIdentity\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "UserManagementWithIdentity\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T12:39:07.673Z",
+              "WhenOpened": "2024-07-11T11:21:03.663Z",
               "EditorCaption": ""
             },
             {
@@ -75,7 +54,7 @@
               "RelativeDocumentMoniker": "UserManagementWithIdentity\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Controllers\\UsersController.cs",
               "RelativeToolTip": "UserManagementWithIdentity\\Controllers\\UsersController.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAADwv08AAAAzAAAA",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwIUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T12:13:17.195Z",
               "EditorCaption": ""
