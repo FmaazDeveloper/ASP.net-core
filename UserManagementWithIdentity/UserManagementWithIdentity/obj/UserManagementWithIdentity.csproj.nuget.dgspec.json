@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\UserManagementWithIdentity.csproj": {}
+    "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\UserManagementWithIdentity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\UserManagementWithIdentity.csproj": {
+    "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\UserManagementWithIdentity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\UserManagementWithIdentity.csproj",
+        "projectUniqueName": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\UserManagementWithIdentity.csproj",
         "projectName": "UserManagementWithIdentity",
-        "projectPath": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\UserManagementWithIdentity.csproj",
-        "packagesPath": "C:\\Users\\Mohammad.Alzahrani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\obj\\",
+        "projectPath": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\UserManagementWithIdentity.csproj",
+        "packagesPath": "C:\\Users\\FMAAZ\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Mohammad.Alzahrani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FMAAZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,17 +62,23 @@
               "target": "Package",
               "version": "[8.0.6, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.6, )"
+              "version": "[8.0.7, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
