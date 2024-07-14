@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\",
+  "WorkspaceRootPath": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|c:\\users\\mohammad.alzahrani\\desktop\\pc folders\\dev\\projects\\asp.net-core\\usermanagementwithidentity\\usermanagementwithidentity\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|solutionrelative:usermanagementwithidentity\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,6 +14,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|c:\\users\\mohammad.alzahrani\\desktop\\pc folders\\dev\\projects\\asp.net-core\\usermanagementwithidentity\\usermanagementwithidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|solutionrelative:usermanagementwithidentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|c:\\users\\fmaaz\\desktop\\pc folders\\dev\\projects\\c#\\asp.net-core\\usermanagementwithidentity\\usermanagementwithidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|solutionrelative:usermanagementwithidentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|c:\\users\\fmaaz\\desktop\\pc folders\\dev\\projects\\c#\\asp.net-core\\usermanagementwithidentity\\usermanagementwithidentity\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|solutionrelative:usermanagementwithidentity\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|c:\\users\\fmaaz\\desktop\\pc folders\\dev\\projects\\c#\\asp.net-core\\usermanagementwithidentity\\usermanagementwithidentity\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE79A3B6-61CB-4220-89BB-405240A046CD}|UserManagementWithIdentity\\UserManagementWithIdentity.csproj|solutionrelative:usermanagementwithidentity\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> ca1fe7ee0aa0c7d58b1aa074de6bfd297d3af473
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +40,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "ResetPassword.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
               "RelativeDocumentMoniker": "UserManagementWithIdentity\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
@@ -48,11 +62,22 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T06:40:42.977Z",
+=======
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagementWithIdentity\\appsettings.json",
+              "ToolTip": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\appsettings.json",
+              "RelativeToolTip": "UserManagementWithIdentity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-12T05:39:24.239Z",
+>>>>>>> ca1fe7ee0aa0c7d58b1aa074de6bfd297d3af473
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+<<<<<<< HEAD
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Program.cs",
               "RelativeDocumentMoniker": "UserManagementWithIdentity\\Program.cs",
@@ -62,6 +87,28 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T06:31:30.399Z",
               "EditorCaption": ""
+=======
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "UserManagementWithIdentity\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "UserManagementWithIdentity\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-11T11:21:03.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserManagementWithIdentity\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserManagementWithIdentity\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAcwJEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T12:13:17.195Z"
+>>>>>>> ca1fe7ee0aa0c7d58b1aa074de6bfd297d3af473
             }
           ]
         }
