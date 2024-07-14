@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\BulkyBook\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B64AA4-D39F-4174-8F89-6AD395F0AE0F}|BulkyBookWeb\\BulkyBookWeb.csproj|c:\\users\\fmaaz\\desktop\\pc folders\\dev\\projects\\c#\\asp.net-core\\bulkybook\\bulkybookweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E8B64AA4-D39F-4174-8F89-6AD395F0AE0F}|BulkyBookWeb\\BulkyBookWeb.csproj|solutionrelative:bulkybookweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\BulkyBook\\BulkyBookWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "BulkyBookWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\BulkyBook\\BulkyBookWeb\\appsettings.json*",
+              "RelativeToolTip": "BulkyBookWeb\\appsettings.json*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T05:48:45.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

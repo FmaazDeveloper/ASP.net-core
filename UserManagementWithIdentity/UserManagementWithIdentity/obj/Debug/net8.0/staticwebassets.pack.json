@@ -21,15 +21,7 @@
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Id": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootbox.js\\bootbox.min.js",
-      "PackagePath": "staticwebassets\\lib\\bootbox.js\\bootbox.min.js"
-    },
-    {
-      "Id": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootstrap\\LICENSE",
-=======
       "Id": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootstrap\\LICENSE",
->>>>>>> ca1fe7ee0aa0c7d58b1aa074de6bfd297d3af473
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {

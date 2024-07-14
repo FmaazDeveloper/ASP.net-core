@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "atEMUA1BZWwwkv7ntuCfMdWt26wTaPuCeEfzTp9ybD4=",
-=======
   "Hash": "UY714LEpIkfx6PQ+3Fxyzps2JEMtnc9pAWPadq+DnpQ=",
->>>>>>> ca1fe7ee0aa0c7d58b1aa074de6bfd297d3af473
   "Source": "UserManagementWithIdentity",
   "BasePath": "_content/UserManagementWithIdentity",
   "Mode": "Default",
@@ -1275,30 +1271,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-<<<<<<< HEAD
-      "Identity": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootbox.js\\bootbox.min.js",
-      "SourceId": "UserManagementWithIdentity",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\",
-      "BasePath": "_content/UserManagementWithIdentity",
-      "RelativePath": "lib/bootbox.js/bootbox.min.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootbox.js\\bootbox.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-=======
       "Identity": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
->>>>>>> ca1fe7ee0aa0c7d58b1aa074de6bfd297d3af473
       "SourceId": "UserManagementWithIdentity",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\FMAAZ\\Desktop\\PC Folders\\Dev\\Projects\\C#\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\",
