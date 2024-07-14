@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mFHQzpHhqvdqNHOixTRmh50Bnkl394aF7eTARvawYIk=",
+  "Hash": "atEMUA1BZWwwkv7ntuCfMdWt26wTaPuCeEfzTp9ybD4=",
   "Source": "UserManagementWithIdentity",
   "BasePath": "_content/UserManagementWithIdentity",
   "Mode": "Default",
@@ -1269,6 +1269,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootbox.js\\bootbox.min.js",
+      "SourceId": "UserManagementWithIdentity",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\",
+      "BasePath": "_content/UserManagementWithIdentity",
+      "RelativePath": "lib/bootbox.js/bootbox.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootbox.js\\bootbox.min.js"
     },
     {
       "Identity": "C:\\Users\\Mohammad.Alzahrani\\Desktop\\PC Folders\\Dev\\Projects\\ASP.net-core\\UserManagementWithIdentity\\UserManagementWithIdentity\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
